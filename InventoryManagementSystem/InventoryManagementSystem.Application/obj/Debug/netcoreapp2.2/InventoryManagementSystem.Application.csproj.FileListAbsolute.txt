@@ -1,0 +1,14 @@
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Application\bin\Debug\netcoreapp2.2\InventoryManagementSystem.Application.deps.json
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Application\bin\Debug\netcoreapp2.2\InventoryManagementSystem.Application.dll
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Application\bin\Debug\netcoreapp2.2\InventoryManagementSystem.Application.pdb
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Application\bin\Debug\netcoreapp2.2\InventoryManagementSystem.Domain.dll
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Application\bin\Debug\netcoreapp2.2\InventoryManagementSystem.Infrastructure.dll
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Application\bin\Debug\netcoreapp2.2\InventoryManagementSystem.Domain.pdb
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Application\bin\Debug\netcoreapp2.2\InventoryManagementSystem.Infrastructure.pdb
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Application\obj\Debug\netcoreapp2.2\InventoryManagementSystem.Application.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Application\obj\Debug\netcoreapp2.2\InventoryManagementSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Application\obj\Debug\netcoreapp2.2\InventoryManagementSystem.Application.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Application\obj\Debug\netcoreapp2.2\InventoryManagementSystem.Application.AssemblyInfo.cs
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Application\obj\Debug\netcoreapp2.2\InventoryManagementSystem.Application.csproj.CopyComplete
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Application\obj\Debug\netcoreapp2.2\InventoryManagementSystem.Application.dll
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Application\obj\Debug\netcoreapp2.2\InventoryManagementSystem.Application.pdb

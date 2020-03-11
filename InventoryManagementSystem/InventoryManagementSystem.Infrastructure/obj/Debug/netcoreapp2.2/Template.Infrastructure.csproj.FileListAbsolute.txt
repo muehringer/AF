@@ -1,0 +1,17 @@
+C:\Users\alexa\Desktop\Work\Template\Template\Template.Infrastructure\bin\Debug\netcoreapp2.2\Template.Infrastructure.deps.json
+C:\Users\alexa\Desktop\Work\Template\Template\Template.Infrastructure\bin\Debug\netcoreapp2.2\Template.Infrastructure.dll
+C:\Users\alexa\Desktop\Work\Template\Template\Template.Infrastructure\bin\Debug\netcoreapp2.2\Template.Infrastructure.pdb
+C:\Users\alexa\Desktop\Work\Template\Template\Template.Infrastructure\obj\Debug\netcoreapp2.2\Template.Infrastructure.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\Work\Template\Template\Template.Infrastructure\obj\Debug\netcoreapp2.2\Template.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Work\Template\Template\Template.Infrastructure\obj\Debug\netcoreapp2.2\Template.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\Work\Template\Template\Template.Infrastructure\obj\Debug\netcoreapp2.2\Template.Infrastructure.AssemblyInfo.cs
+C:\Users\alexa\Desktop\Work\Template\Template\Template.Infrastructure\obj\Debug\netcoreapp2.2\Template.Infrastructure.dll
+C:\Users\alexa\Desktop\Work\Template\Template\Template.Infrastructure\obj\Debug\netcoreapp2.2\Template.Infrastructure.pdb
+C:\Users\alexandre.alves\Temp\Template\Template.Infrastructure\bin\Debug\netcoreapp2.2\Template.Infrastructure.deps.json
+C:\Users\alexandre.alves\Temp\Template\Template.Infrastructure\bin\Debug\netcoreapp2.2\Template.Infrastructure.dll
+C:\Users\alexandre.alves\Temp\Template\Template.Infrastructure\bin\Debug\netcoreapp2.2\Template.Infrastructure.pdb
+C:\Users\alexandre.alves\Temp\Template\Template.Infrastructure\obj\Debug\netcoreapp2.2\Template.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.alves\Temp\Template\Template.Infrastructure\obj\Debug\netcoreapp2.2\Template.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alexandre.alves\Temp\Template\Template.Infrastructure\obj\Debug\netcoreapp2.2\Template.Infrastructure.AssemblyInfo.cs
+C:\Users\alexandre.alves\Temp\Template\Template.Infrastructure\obj\Debug\netcoreapp2.2\Template.Infrastructure.dll
+C:\Users\alexandre.alves\Temp\Template\Template.Infrastructure\obj\Debug\netcoreapp2.2\Template.Infrastructure.pdb

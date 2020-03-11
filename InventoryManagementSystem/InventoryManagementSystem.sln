@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Service", "1.Service", "{AB3918E2-3F58-4163-BD64-D84632C24E0B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Application", "2.Application", "{0355C9FE-6B16-49A7-827A-F7B41C169D2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Domain", "3.Domain", "{32F70B6A-6D91-431B-A55E-38D2A5CC1477}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Infrastructure", "4.Infrastructure", "{48578676-E3F0-412F-9616-057591D34910}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Test", "5.Test", "{E84CF416-7DB9-45FA-A495-2AA0BBCBC4AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagementSystem.API", "InventoryManagementSystem.API\InventoryManagementSystem.API.csproj", "{867F5A8E-E7DC-4878-9378-95230FB21AB6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagementSystem.Application", "InventoryManagementSystem.Application\InventoryManagementSystem.Application.csproj", "{264EDA24-D9E8-499F-9ABD-504BA0C8DE51}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagementSystem.Domain", "InventoryManagementSystem.Domain\InventoryManagementSystem.Domain.csproj", "{861F9889-C8B2-491D-B057-31B243D3070A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagementSystem.Domain.Test", "InventoryManagementSystem.Domain.Test\InventoryManagementSystem.Domain.Test.csproj", "{09114815-8E2D-4AAB-9818-D1754E0FD06D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{F5ECE4DF-815D-41B9-8C17-EB9AF701CED2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScriptDB", "ScriptDB", "{AA5F5C69-4B89-4777-AF2D-992F8DE6C35D}"
+	ProjectSection(SolutionItems) = preProject
+		Script.sql = Script.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MER", "MER", "{544F0196-6A62-4AA1-B816-9ECAA261A3C4}"
+	ProjectSection(SolutionItems) = preProject
+		Entity-Relationship Diagram.mwb = Entity-Relationship Diagram.mwb
+		Entity-Relationship Diagram.png = Entity-Relationship Diagram.png
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagementSystem.Infrastructure", "InventoryManagementSystem.Infrastructure\InventoryManagementSystem.Infrastructure.csproj", "{53E53996-FC50-4F9D-BE99-3F8568B1AE0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagementSystem.IoC", "InventoryManagementSystem.IoC\InventoryManagementSystem.IoC.csproj", "{B40F1D3D-DD49-4D93-AFFE-A0A9B3899261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{867F5A8E-E7DC-4878-9378-95230FB21AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867F5A8E-E7DC-4878-9378-95230FB21AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867F5A8E-E7DC-4878-9378-95230FB21AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867F5A8E-E7DC-4878-9378-95230FB21AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264EDA24-D9E8-499F-9ABD-504BA0C8DE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264EDA24-D9E8-499F-9ABD-504BA0C8DE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264EDA24-D9E8-499F-9ABD-504BA0C8DE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264EDA24-D9E8-499F-9ABD-504BA0C8DE51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{861F9889-C8B2-491D-B057-31B243D3070A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861F9889-C8B2-491D-B057-31B243D3070A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861F9889-C8B2-491D-B057-31B243D3070A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861F9889-C8B2-491D-B057-31B243D3070A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09114815-8E2D-4AAB-9818-D1754E0FD06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09114815-8E2D-4AAB-9818-D1754E0FD06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09114815-8E2D-4AAB-9818-D1754E0FD06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09114815-8E2D-4AAB-9818-D1754E0FD06D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E53996-FC50-4F9D-BE99-3F8568B1AE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E53996-FC50-4F9D-BE99-3F8568B1AE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E53996-FC50-4F9D-BE99-3F8568B1AE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E53996-FC50-4F9D-BE99-3F8568B1AE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B40F1D3D-DD49-4D93-AFFE-A0A9B3899261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40F1D3D-DD49-4D93-AFFE-A0A9B3899261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40F1D3D-DD49-4D93-AFFE-A0A9B3899261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40F1D3D-DD49-4D93-AFFE-A0A9B3899261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{867F5A8E-E7DC-4878-9378-95230FB21AB6} = {AB3918E2-3F58-4163-BD64-D84632C24E0B}
+		{264EDA24-D9E8-499F-9ABD-504BA0C8DE51} = {0355C9FE-6B16-49A7-827A-F7B41C169D2D}
+		{861F9889-C8B2-491D-B057-31B243D3070A} = {32F70B6A-6D91-431B-A55E-38D2A5CC1477}
+		{09114815-8E2D-4AAB-9818-D1754E0FD06D} = {E84CF416-7DB9-45FA-A495-2AA0BBCBC4AE}
+		{AA5F5C69-4B89-4777-AF2D-992F8DE6C35D} = {F5ECE4DF-815D-41B9-8C17-EB9AF701CED2}
+		{544F0196-6A62-4AA1-B816-9ECAA261A3C4} = {F5ECE4DF-815D-41B9-8C17-EB9AF701CED2}
+		{53E53996-FC50-4F9D-BE99-3F8568B1AE0C} = {48578676-E3F0-412F-9616-057591D34910}
+		{B40F1D3D-DD49-4D93-AFFE-A0A9B3899261} = {48578676-E3F0-412F-9616-057591D34910}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDFCC373-4E1D-4861-9CE9-A40B3CCD43A6}
+	EndGlobalSection
+EndGlobal

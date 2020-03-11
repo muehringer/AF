@@ -1,0 +1,16 @@
+C:\Users\alexandre.alves\Temp\Template\Allegiance\Allegiance.Infrastructure\bin\Debug\netcoreapp2.2\Allegiance.Infrastructure.deps.json
+C:\Users\alexandre.alves\Temp\Template\Allegiance\Allegiance.Infrastructure\bin\Debug\netcoreapp2.2\Allegiance.Infrastructure.dll
+C:\Users\alexandre.alves\Temp\Template\Allegiance\Allegiance.Infrastructure\bin\Debug\netcoreapp2.2\Allegiance.Infrastructure.pdb
+C:\Users\alexandre.alves\Temp\Template\Allegiance\Allegiance.Infrastructure\obj\Debug\netcoreapp2.2\Allegiance.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.alves\Temp\Template\Allegiance\Allegiance.Infrastructure\obj\Debug\netcoreapp2.2\Allegiance.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alexandre.alves\Temp\Template\Allegiance\Allegiance.Infrastructure\obj\Debug\netcoreapp2.2\Allegiance.Infrastructure.AssemblyInfo.cs
+C:\Users\alexandre.alves\Temp\Template\Allegiance\Allegiance.Infrastructure\obj\Debug\netcoreapp2.2\Allegiance.Infrastructure.dll
+C:\Users\alexandre.alves\Temp\Template\Allegiance\Allegiance.Infrastructure\obj\Debug\netcoreapp2.2\Allegiance.Infrastructure.pdb
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\Allegiance\Allegiance.Infrastructure\bin\Debug\netcoreapp2.2\Allegiance.Infrastructure.deps.json
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\Allegiance\Allegiance.Infrastructure\bin\Debug\netcoreapp2.2\Allegiance.Infrastructure.dll
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\Allegiance\Allegiance.Infrastructure\bin\Debug\netcoreapp2.2\Allegiance.Infrastructure.pdb
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\Allegiance\Allegiance.Infrastructure\obj\Debug\netcoreapp2.2\Allegiance.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\Allegiance\Allegiance.Infrastructure\obj\Debug\netcoreapp2.2\Allegiance.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\Allegiance\Allegiance.Infrastructure\obj\Debug\netcoreapp2.2\Allegiance.Infrastructure.AssemblyInfo.cs
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\Allegiance\Allegiance.Infrastructure\obj\Debug\netcoreapp2.2\Allegiance.Infrastructure.dll
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\Allegiance\Allegiance.Infrastructure\obj\Debug\netcoreapp2.2\Allegiance.Infrastructure.pdb

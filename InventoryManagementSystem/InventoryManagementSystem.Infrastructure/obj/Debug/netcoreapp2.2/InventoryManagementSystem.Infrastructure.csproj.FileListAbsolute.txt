@@ -1,0 +1,9 @@
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\bin\Debug\netcoreapp2.2\InventoryManagementSystem.Infrastructure.deps.json
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\bin\Debug\netcoreapp2.2\InventoryManagementSystem.Infrastructure.dll
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\bin\Debug\netcoreapp2.2\InventoryManagementSystem.Infrastructure.pdb
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\obj\Debug\netcoreapp2.2\InventoryManagementSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\obj\Debug\netcoreapp2.2\InventoryManagementSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\obj\Debug\netcoreapp2.2\InventoryManagementSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\obj\Debug\netcoreapp2.2\InventoryManagementSystem.Infrastructure.dll
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\obj\Debug\netcoreapp2.2\InventoryManagementSystem.Infrastructure.pdb
+C:\Users\alexa\Desktop\Work\Teste\Allegiance\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\obj\Debug\netcoreapp2.2\InventoryManagementSystem.Infrastructure.csprojAssemblyReference.cache

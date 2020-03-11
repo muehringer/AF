@@ -1,0 +1,5 @@
+C:\Users\alexa\Desktop\Work\Template\Template\Template.IoC\bin\Debug\netcoreapp2.1\Template.IoC.deps.json
+C:\Users\alexa\Desktop\Work\Template\Template\Template.IoC\bin\Debug\netcoreapp2.1\Template.IoC.dll
+C:\Users\alexa\Desktop\Work\Template\Template\Template.IoC\obj\Debug\netcoreapp2.1\Template.IoC.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Work\Template\Template\Template.IoC\obj\Debug\netcoreapp2.1\Template.IoC.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\Work\Template\Template\Template.IoC\obj\Debug\netcoreapp2.1\Template.IoC.AssemblyInfo.cs

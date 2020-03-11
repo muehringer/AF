@@ -1,0 +1,6 @@
+C:\Users\alexa\Desktop\Work\Template\Template\Template.Infrastructure\bin\Debug\netcoreapp2.1\Template.Infrastructure.deps.json
+C:\Users\alexa\Desktop\Work\Template\Template\Template.Infrastructure\bin\Debug\netcoreapp2.1\Template.Infrastructure.dll
+C:\Users\alexa\Desktop\Work\Template\Template\Template.Infrastructure\obj\Debug\netcoreapp2.1\Template.Infrastructure.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\Work\Template\Template\Template.Infrastructure\obj\Debug\netcoreapp2.1\Template.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Work\Template\Template\Template.Infrastructure\obj\Debug\netcoreapp2.1\Template.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\Work\Template\Template\Template.Infrastructure\obj\Debug\netcoreapp2.1\Template.Infrastructure.AssemblyInfo.cs
